@@ -3,9 +3,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:h2:mem:test
+    url: jdbc:h2:mem:demo
     driver-class-name: org.h2.Driver
-    username: sa
+    username: root
     password:
   h2:
     console:
