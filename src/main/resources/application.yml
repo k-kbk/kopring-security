@@ -28,3 +28,6 @@ logging:
       hibernate:
         SQL: debug
         type.descriptor.sql: trace
+
+jwt:
+  secret: bkbkbkbkbk
